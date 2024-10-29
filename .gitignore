@@ -1,4 +1,8 @@
-champions.csv/
-kaggle_API.json/
-league-of-legends-worlds-2024-swiss-stage-stats.zip/
+# Ignorar datasets y configuraciones de API
+dataset_kaggle/
+*.csv
+*.json
+*.zip
+
+# Ignorar entorno virtual
 venv/
